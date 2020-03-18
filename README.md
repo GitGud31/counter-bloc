@@ -2,6 +2,10 @@
 
 Simple Counter App with BLoC.
 
+![Light Theme](app_screenshots/light-theme.jpg)
+![Dark Theme](app_screenshots/dark-theme.jpg)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
