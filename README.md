@@ -2,8 +2,12 @@
 
 Simple Counter App with BLoC.
 
-![Light Theme](app_screenshots/light-theme.jpg width="200" height="400")
-![Dark Theme](app_screenshots/dark-theme.jpg width="200" height="400")
+<img src="app_screenshots/light-theme.jpg" width="200" height="400">
+
+
+
+![Light Theme](app_screenshots/light-theme.jpg)
+![Dark Theme](app_screenshots/dark-theme.jpg)
 
 
 ## Getting Started
